@@ -1,0 +1,29 @@
+{
+  "name": "gig-insurance-ai",
+  "version": "1.0.0",
+  "description": "India's platform-based delivery partners (Zomato, Swiggy, Zepto, Amazon, Dunzo) lose **20–30% of their monthly earnings** due to external disruptions like extreme weather, pollution, and sudden curfews. They have **zero income protection** against these uncontrollable events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ishikaa03/gig-insurance-ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Ishikaa03/gig-insurance-ai/issues"
+  },
+  "homepage": "https://github.com/Ishikaa03/gig-insurance-ai#readme",
+  "dependencies": {
+    "react-router-dom": "^7.13.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.27",
+    "postcss": "^8.5.8",
+    "tailwindcss": "^4.2.1"
+  }
+}
