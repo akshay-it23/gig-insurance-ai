@@ -167,11 +167,6 @@ python api/app.py
 
 ---
 
-## 👥 Team & Task Assignments
-
-See [ISSUES.md](./ISSUES.md) for detailed task breakdown and GitHub issue assignments.
-
----
 
 ## 📄 License
 MIT License
