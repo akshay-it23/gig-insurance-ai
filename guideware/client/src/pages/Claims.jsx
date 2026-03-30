@@ -61,12 +61,14 @@ const Claims = () => {
     return Object.keys(newErrors).length === 0
   }
 
-  const handleSubmit = async (e) => {
+
+  const handleSmit = async (e) => {
     e.preventDefault()
     if (!validateForm()) return
 
     setLoading(true)
     setError('')
+    console.log(error)
 
     try {
       if (editingId) {

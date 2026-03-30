@@ -42,7 +42,9 @@ const Login = () => {
     const { name, value } = e.target
     setFormData((prev) => ({
       ...prev,
-      [name]: value
+      [name]: value,
+      [email]:value,
+      [password]:value
     }))
     if (errors[name]) {
       setErrors((prev) => ({
